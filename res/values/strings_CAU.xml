@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="CAU_Plc_array">
+       <item>Chungang University</item>
+<item>Convenience Store	</item>
+<item>Post office	</item>
+<item>Pharmacy	</item>
+<item>Convenience Store	</item>
+<item>Coffee shop	</item>
+<item>Post office	</item>
+<item>Subway station of num 9 line	</item>
+<item>Mr Pizza	</item>
+<item>Chung ang Hospital	</item>
+<item>Pharmacy	</item>
+<item>Temporary staying	</item>
+<item>Pharmacy	</item>
+<item>Pharmacy	</item>
+<item>Convenience Store	</item>
+<item>Subway station of num 7 line	</item>
+<item>Convenience Store	</item>
+<item>Domino Pizza	</item>
+<item>Pizza hut	</item>
+<item>Mr Pizza	</item>
+<item>Hana Bank	</item>
+<item>KEB Bank	</item>
+<item>Sinhan Bank	</item>
+<item>Pharmacy	</item>
+<item>Post office	</item>
+<item>Pharmacy	</item>
+        
+        
+        ></string-array>
+    
+    <string-array name="CAU_desc_array">
+        <item ></item>
+        <item ></item>
+        <item ></item>
+        <item ></item>
+        <item ></item>
+         <item ></item>
+        <item ></item>
+        <item ></item>
+        <item ></item>
+        <item ></item>
+         <item ></item>
+        <item ></item>
+        <item ></item>
+        <item ></item>
+        <item ></item>
+         <item ></item>
+        <item ></item>
+        <item ></item>
+        <item ></item>
+        <item ></item>
+         <item ></item>
+        <item ></item>
+        <item ></item>
+        <item ></item>
+        <item ></item>
+         <item ></item>
+        <item ></item>
+        <item ></item>
+        <item ></item>
+        <item ></item>
+        
+        
+    </string-array>
+</resources>

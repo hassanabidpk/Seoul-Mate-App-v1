@@ -1,0 +1,177 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="KU_Plc_array">
+<item>Main Gate to Campus	</item>
+<item>Entrance to Main Campus	</item>
+<item>Entrance to Main Campus	</item>
+<item>Entrance to Campus	</item>
+<item>Entrance to KU Campus vis the Medical Center	</item>
+<item>Entrance to KU Science Campus	</item>
+<item>Entrance to Science Campus	</item>
+<item>Entrance to Science Campus	</item>
+<item>Entrance to Main Campus	</item>
+<item>Entrance to Campus	</item>
+<item>Anam Station	</item>
+<item>Anam Hostel	</item>
+<item>Holiday Inn Hotel	</item>
+<item>Anam Bus Station	</item>
+<item>Anam Bus Station	</item>
+<item>Local Bus Station	</item>
+<item>Pharmacy	</item>
+<item>KB Bank	</item>
+<item>Hana Bank	</item>
+<item>Local Bus Station	</item>
+<item>Local Bus Station	</item>
+<item>Science and Engineering at Korea University Station	</item>
+<item>Science and Engineering at Korea University Station	</item>
+<item>Local Bus Station	</item>
+<item>IBK Bank	</item>
+<item>Daiso Store	</item>
+<item>Hana Bank	</item>
+<item>Police Station	</item>
+<item>Wooshinhyang Hospital	</item>
+<item>Wooshinhyang Hospital Bus Station	</item>
+<item>Motels	</item>
+<item>Coin Wash	</item>
+<item>IBK Bank	</item>
+<item>Korea University Bus Station	</item>
+<item>Korea University Bus Station	</item>
+<item>Korea University Bus Station, Samgeori	</item>
+<item>Airport Limousine Bust Station	</item>
+<item>Airport Limousine Bus Station	</item>
+<item>Korea University Bus Station, Samgeori	</item>
+<item>Local Bus Station	</item>
+<item>Dr. Oh\'s Medical Clinic	</item>
+<item>Entrance to Main Campus	</item>
+<item>Sungrye Elementary School Bus Station	</item>
+<item>Police Station	</item>
+<item>Sungrye Elementary School Bus Station	</item>
+<item>Seong Buk Choong Ang Hospital	</item>
+<item>Jongam-dong Community Service Center Bus Station	</item>
+<item>Jongam-dong Community Service Center Bus Station	</item>
+<item>IBK Bank	</item>
+<item>Motel	</item>
+<item>Motels	</item>
+<item>Hana Bank	</item>
+<item>Entrance to Main Campus	</item>
+<item>Entrance to Campus	</item>
+<item>Korea University	</item>             
+        </string-array>
+        
+ <string-array name="KU_Plc_desc_array">
+     <item>		</item>
+<item>		</item>
+<item>		</item>
+<item>		</item>
+<item>		</item>
+<item>		</item>
+<item>		</item>
+<item>		</item>
+<item>		</item>
+<item>		</item>
+<item>This station is the main station for Korea University. Compared with the Korea University Station at the next stop. Anam Station is much more convenient for those traveling to most areas of campus.	</item>
+<item>Convenient temporar housing	</item>
+<item>3-1343 Jongam-dong, Seongbuk-gu, Seoul,South Korea	</item>
+<item>Buses 273, 1212, and 1111	</item>
+<item>Buses 273 and 1111	</item>
+<item>Local Bus 04	</item>
+<item>A very convenient pharmacy for students	</item>
+<item>		</item>
+<item>A very convenient bank	</item>
+<item>Local Bus 04	</item>
+<item>Local Bus 04	</item>
+<item>Buses 273, 1212, and 1111	</item>
+<item>Buses 273, 1111, 1212, and 04	</item>
+<item>Local Bus 04	</item>
+<item>		</item>
+<item>You can purchase essential personal and home items at this location at very affordable prices.	</item>
+<item>		</item>
+<item>		</item>
+<item>		</item>
+<item>Buses 101, 144, 163, 1017, 7211, 111, and 04	</item>
+<item>		</item>
+<item>Possibly the only one in the area	</item>
+<item>		</item>
+<item>Buses 101, 144, 163, 273, 1017, 111, and 1222	</item>
+<item>Buses 101, 144, 163, 273, 1017, 111, 7211, 1001, and 1111	</item>
+<item>1213, 110, 130, 141, 148, and 410	</item>
+<item>Take this bus to travel to and from Gimpo and Incheon international airports.	</item>
+<item>Take this bus to travel to and from Gimpo and Incheon international airports	</item>
+<item>101, 130, 141, 148, 410, 1222, 1213, and 2222	</item>
+<item>Buses 20 and 21	</item>
+<item>		</item>
+<item>		</item>
+<item>Buses 101, 110, 111, 130, 141, 144, 410, 148, 163, 1017, 1111, 7211, and 1213	</item>
+<item>		</item>
+<item>Buses 101, 110, 111, 130, 141, 144, 410, 148, 163, 1017, 1111, 7211, and 1213	</item>
+<item>		</item>
+<item>Buses 101, 110, 111, 130, 141, 144, 148, 163, 410, 1017, 1111, 1213, and 7211	</item>
+<item>Buses 101, 110, 111, 130, 141, 144, 148, 163, 410, 1017, 1111, 1213, and 7211	</item>
+<item>		</item>
+<item>		</item>
+<item>		</item>
+<item>		</item>
+<item>		</item>
+<item>		</item>
+<item>Welcome to Korea University	</item>
+     
+ </string-array>
+ 
+ 
+    <string name = "KU_Plc_1">Main Gate to Campus</string>
+    <string name = "KU_Plc_2">Entrance to Main Campus</string>
+    <string name = "KU_Plc_3">Entrance to Main Campus</string>
+    <string name = "KU_Plc_4">Entrance to Campus</string>
+    <string name = "KU_Plc_5">Entrance to KU Campus vis the Medical Center</string>
+    <string name = "KU_Plc_6">Entrance to KU Science Campus</string>
+    <string name = "KU_Plc_7">Entrance to Science Campus</string>
+    <string name = "KU_Plc_8">Entrance to Science Campus</string>
+    <string name = "KU_Plc_9">Entrance to Main Campus</string>
+    <string name = "KU_Plc_10">Entrance to Campus</string>
+    <string name = "KU_Plc_11">Anam Station</string>
+    <string name = "KU_Plc_12">Anam Hostel</string>
+    <string name = "KU_Plc_13">Holiday Inn Hotel</string>
+    <string name = "KU_Plc_14">Anam Bus Station</string>
+    <string name = "KU_Plc_15">Anam Bus Station</string>
+    <string name = "KU_Plc_16">Local Bus Station</string>
+    <string name = "KU_Plc_17">Pharmacy</string>
+    <string name = "KU_Plc_18">KB Bank</string>
+    <string name = "KU_Plc_19">Hana Bank</string>
+    <string name = "KU_Plc_20">Local Bus Station</string>
+    <string name = "KU_Plc_21">Local Bus Station</string>
+    <string name = "KU_Plc_22">Science and Engineering at Korea University Station</string>
+    <string name = "KU_Plc_23">Science and Engineering at Korea University Station</string>
+    <string name = "KU_Plc_24">Local Bus Station</string>
+    <string name = "KU_Plc_25">IBK Bank</string>
+    <string name = "KU_Plc_26">Daiso Store</string>
+    <string name = "KU_Plc_27">Hana Bank</string>
+    <string name = "KU_Plc_28">Police Station</string>
+    <string name = "KU_Plc_29">Wooshinhyang Hospital</string>
+    <string name = "KU_Plc_30">Wooshinhyang Hospital Bus Station</string>
+    <string name = "KU_Plc_31">Motels</string>
+    <string name = "KU_Plc_32">Coin Wash</string>
+    <string name = "KU_Plc_33">IBK Bank</string>
+    <string name = "KU_Plc_34">Korea University Bus Station</string>
+    <string name = "KU_Plc_35">Korea University Bus Station</string>
+    <string name = "KU_Plc_36">Korea University Bus Station, Samgeori</string>
+    <string name = "KU_Plc_37">Airport Limousine Bust Station</string>
+    <string name = "KU_Plc_38">Airport Limousine Bus Station</string>
+    <string name = "KU_Plc_39">Korea University Bus Station, Samgeori</string>
+    <string name = "KU_Plc_40">Local Bus Station</string>
+    <string name = "KU_Plc_41">Dr. Oh\'s Medical Clinic</string>
+    <string name = "KU_Plc_42">Entrance to Main Campus</string>
+    <string name = "KU_Plc_43">Sungrye Elementary School Bus Station</string>
+    <string name = "KU_Plc_44">Police Station</string>
+    <string name = "KU_Plc_45">Sungrye Elementary School Bus Station</string>
+    <string name = "KU_Plc_46">Seong Buk Choong Ang Hospital</string>
+    <string name = "KU_Plc_47">Jongam-dong Community Service Center  Bus Station</string>
+    <string name = "KU_Plc_48">Jongam-dong Community Service Center  Bus Station</string>
+    <string name = "KU_Plc_49">IBK Bank</string>
+    <string name = "KU_Plc_50">Motel</string>
+    <string name = "KU_Plc_51">Motels</string>
+    <string name = "KU_Plc_52">Hana Bank</string>
+    <string name = "KU_Plc_53">Entrance to Main Campus</string>
+    <string name = "KU_Plc_54">Entrance to Campus</string>
+    
+    
+</resources>

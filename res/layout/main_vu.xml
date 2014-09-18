@@ -1,0 +1,189 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    xmlns:fb="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent" 
+    android:orientation="vertical"
+    android:id="@+id/fragment_main_container"
+    android:background="@drawable/background_seoulapp1" >
+    
+           <Button
+      android:id="@+id/main_spinner"
+      android:layout_width="110dp"
+      android:layout_marginTop="10dp"
+      android:layout_marginRight="12dp"
+      android:layout_height="34dp"
+      android:textSize="14dp"
+      android:background="@android:color/darker_gray"
+      android:textColor="@android:color/black"
+      android:text="@string/language"
+      android:layout_gravity="top|right"/>
+             
+             
+<LinearLayout 
+   
+    android:layout_width="fill_parent"
+    android:layout_height="wrap_content"
+    android:layout_gravity="center"
+    android:orientation="vertical">
+  
+    
+    <Button 
+        android:id="@+id/mainbutton1"
+        android:layout_width="250dp"
+        android:layout_height="60dp"
+        android:text="@string/campus_maps"
+        android:textColor="@android:color/white"
+        android:layout_gravity="center"
+        android:padding="5dip"
+        android:layout_marginTop="70dip"
+        android:textSize="21sp"
+        android:background="@drawable/main_menu_button_select"
+       
+     />
+
+      <Button 
+        android:id="@+id/mainbutton2"
+        android:layout_width="250dp"
+        android:layout_height="60dp"
+        android:text="@string/google_maps"
+        android:textColor="@android:color/white"
+        android:layout_gravity="center"
+        android:padding="5dip"
+        android:textSize="21sp"
+        android:background="@drawable/main_menu_button_select"
+        
+     />
+        <Button 
+        android:id="@+id/mainbutton3"
+        android:layout_width="250dp"
+        android:layout_height="60dp"
+        android:text="@string/airport_bus"
+        android:textColor="@android:color/white"
+        android:layout_gravity="center"
+        android:padding="5dip"
+        android:textSize="21sp"
+        android:background="@drawable/main_menu_button_select"
+       
+     />
+          <Button 
+        android:id="@+id/mainbutton4"
+        android:layout_width="250dp"
+        android:layout_height="60dp"
+        android:text="@string/special_food"
+        android:textColor="@android:color/white"
+        android:layout_gravity="center"
+        android:padding="5dip"
+        android:textSize="21sp"
+        android:background="@drawable/main_menu_button_select"
+        
+     />
+            <Button 
+        android:id="@+id/mainbutton5"
+        android:layout_width="250dp"
+        android:layout_height="60dp"
+        android:text="@string/general_info"
+        android:textColor="@android:color/white"
+        android:layout_gravity="center"
+        android:padding="5dip"
+        android:textSize="21sp"
+        android:background="@drawable/main_menu_button_select"/>
+      <LinearLayout 
+            android:layout_height="wrap_content"
+            android:layout_width="wrap_content"
+            android:orientation="horizontal"
+            android:layout_marginTop="10dp"
+            android:layout_gravity="center">     
+      <com.facebook.widget.LoginButton
+        android:id="@+id/authButton"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal"
+        fb:logout_text="Logout"
+        
+        />
+       <com.facebook.widget.ProfilePictureView
+         android:id="@+id/profilePicture"
+         android:layout_height="40dp"
+         android:layout_width="40dp"
+         android:gravity="center_horizontal"
+         fb:preset_size="normal"
+         android:visibility="visible"/>
+       </LinearLayout> 
+
+        <LinearLayout 
+            android:layout_height="wrap_content"
+            android:layout_width="wrap_content"
+            android:orientation="horizontal"
+            android:layout_weight="1.0"
+            android:layout_gravity="center"
+            android:layout_marginTop="5dip"
+            android:layout_marginRight="5dip"
+            android:layout_marginLeft="5dip">     
+       <ImageView 
+        android:id="@+id/mainbutton7"
+        android:layout_width="48dp"
+        android:layout_gravity="bottom|right"
+        android:layout_height="48dp"
+        android:textColor="@android:color/white"
+        android:layout_weight="0.2"
+        android:layout_margin="10dip"
+        android:textSize="14sp"
+        android:src="@drawable/about"
+        android:background="@android:color/black"        /> 
+     
+       <ImageView 
+        android:id="@+id/mainbutton10"
+        android:layout_width="48dp"
+        android:layout_gravity="bottom|right"
+        android:layout_height="48dp"
+        android:textColor="@android:color/white"
+        android:layout_weight="0.2"
+        android:textSize="14sp"
+         android:layout_margin="10dip"
+         android:src="@drawable/email"
+        android:background="@android:color/black"
+         />      
+       <ImageView 
+        android:id="@+id/mainbutton8"
+        android:layout_width="48dp"
+        android:layout_gravity="bottom|left"
+        android:layout_height="48dp"
+        android:text="@string/help" 
+        android:textColor="@android:color/white"
+        android:textSize="14sp"
+        android:background="@android:color/black"
+        android:src="@drawable/help"
+         android:layout_margin="10dip"
+        android:layout_weight="0.2"
+         /> 
+                 <ImageView 
+        android:id="@+id/mainbutton9"
+        android:layout_width="48dp"
+        android:layout_gravity="bottom|right"
+        android:layout_height="48dp"
+        android:textColor="@android:color/white"
+        android:visibility="gone"
+        android:layout_weight="0.2"
+        android:textSize="14sp"
+         android:layout_margin="10dip"
+         android:src="@drawable/facebook_share_96"
+        android:background="@android:color/transparent"
+         />  
+
+        <ImageView 
+        android:id="@+id/kakaoButton"
+        android:layout_width="wrap_content"
+        android:layout_gravity="bottom|right"
+        android:layout_height="wrap_content"
+        android:textColor="@android:color/white"
+        android:layout_weight="0.2"
+        android:onClick="sendUrlLink"
+        android:layout_margin="10dip"
+         android:src="@drawable/groove_96_new"
+        android:background="@android:color/transparent"
+         /> 
+         </LinearLayout> 
+              
+              </LinearLayout>
+</LinearLayout>

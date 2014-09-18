@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="SKKU_Plc_array">
+        <item>	SKKU University Seoul Campus	</item>
+<item>SKKU Main Gate	</item>
+<item>Dr. Shin Family Clinic	</item>
+<item>International House	</item>
+<item>International Hall	</item>
+<item>Sungkyunkwan Old Campus	</item>
+<item>600 Anniversary Building	</item>
+<item>Central Library	</item>
+<item>Business School	</item>
+<item>Law School	</item>
+<item>Woori Bank	</item>
+<item>Bong House	</item>
+<item>Backpacker Mr. Sea	</item>
+<item>Post Office	</item>
+<item>Student Center Building	</item>
+<item>Wind Road Guest House	</item>
+<item>Sungkyunkwan University Stop	</item>
+<item>Sungkyunkwan University Stop	</item>
+<item>Backpackers Inside	</item>
+<item>Golden Pond Guest House	</item>
+<item>Hyehwa Subway Station	</item>
+<item>Lotte MySuper	</item>
+<item>SKKU Shuttle bus stop	</item>
+<item>Drug Store	</item>
+<item>Dentist	</item>
+<item>Clinic	</item>
+<item>Dentist	</item>
+<item>Clinic	</item>
+<item>Drug Store	</item>
+<item>Dentist	</item>
+<item>Home plus Express	</item>
+<item>Sunkyunkwan University Bus Stop	</item>
+<item>	Sungkyunkwan University Bus stop	</item>
+<item>Kim Family Clinic	</item>
+<item>Drug Store	</item>
+<item>Dentist	</item>
+<item>Management School	</item>
+<item>Hoam Hall	</item>
+<item>Health Care Center	</item>
+        
+    </string-array>
+    
+   <string-array name="SKKU_desc_array">
+        <item>	Sungkyunkwan University Humanities and Social Science Campus, also known as SKKU or simply Seongdae)	</item>
+<item>		</item>
+<item>		</item>
+<item>		</item>
+<item>		</item>
+<item>		</item>
+<item>		</item>
+<item>		</item>
+<item>		</item>
+<item>		</item>
+<item>Woori Bank SKKU Branch	</item>
+<item>17-2 Myeongryun 3-Ga, Myeongryun-Dong, Jongno-Gu, Seoul 110-523, South Korea 3346	</item>
+<item>Myeongnyun 2 ga, Seoul 110-522, South Korea	</item>
+<item>Post Office SKKU branch. Locate in first floor pf the building.	</item>
+<item>		</item>
+<item>85-5 Myeongnyun-dong 3-ga, Jongno-gu, Seoul, South Korea.	</item>
+<item>Airport Limousine Bus Stop (from Incheon airport)	</item>
+<item>Airport Limousine Bus Stop(to Incheon airport)	</item>
+<item>2F 112 Myeongryun 2-ga, Jongno-gu, South Korea	</item>
+<item>40 14/5 Myeongryun-dong 4-Ga, Seoul 110-524 South Korea-	</item>
+<item>Seoul Subway Line No.4	</item>
+<item>Place to buy groceries. From exit no.1 Hyehwa Station, walk straight until you see the store at your right.	</item>
+<item>Get out at exit no.1 and walk straight until you see a bus stop with SKKU wordings. You can take a bus by paying 300won to go to the university.	</item>
+<item>		</item>
+<item>		</item>
+<item>		</item>
+<item>		</item>
+<item>		</item>
+<item>		</item>
+<item>		</item>
+<item>Place to buy groceries.	</item>
+<item>Here bus to Jongno, Seoul Station or City Hall direction can be taken here.	</item>
+<item>Bus to Korea Uni., Kukmin Uni. or Kimpo Airport can be taken here.	</item>
+<item>		</item>
+<item>		</item>
+<item>		</item>
+<item>		</item>
+<item>		</item>
+<item>Provide free health treatment for free for SKKU students. Located at 2nd floor of the building.	</item>
+        
+    </string-array>
+</resources>

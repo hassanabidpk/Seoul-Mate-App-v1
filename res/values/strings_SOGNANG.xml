@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="SOGANG_Plc_array">
+        <item>	Post office	</item>
+<item>Sogang University	</item>
+<item>Pharmacy	</item>
+<item>Conveience store	</item>
+<item>Woori Bank	</item>
+<item>Subway Station of num6 line	</item>
+<item>Pharmacy	</item>
+<item>coffee shop	</item>
+<item>temporary staying	</item>
+<item>temporary staying	</item>
+<item>Convenience Store	</item>
+<item>Temporary staying	</item>
+<item>Bookstore	</item>
+<item>Fastfood store	</item>
+<item>Post office	</item>
+<item>Domino Pizza	</item>
+<item>Shinhan Bank	</item>
+        
+    </string-array>
+    
+    <string-array name="SOGANG_desc_array">
+        <item>		</item>
+<item>		</item>
+<item>		</item>
+<item>		</item>
+<item>		</item>
+<item>		</item>
+<item>		</item>
+<item>		</item>
+<item>		</item>
+<item>		</item>
+<item>		</item>
+<item>		</item>
+<item>		</item>
+<item>		</item>
+<item>		</item>
+<item>		</item>
+<item>		</item>
+    </string-array>
+</resources>

@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="SNU_Plc_array">
+        <item>	Convenience store	</item>
+<item>Convenience store	</item>
+<item>Airport Limousine Bus Station	</item>
+<item>Nakseongdae Subway Station	</item>
+<item>Seoul Nat. Univ Subway Station	</item>
+<item>Seoul Nat. Uni entrance Bus Stop	</item>
+<item>Police Station	</item>
+<item>Main Gate to Campus	</item>
+<item>Bus Stop in front of main Gate	</item>
+<item>Shinhan Bank	</item>
+<item>Post office	</item>
+<item>Shinhan Bank	</item>
+<item>Convenience store	</item>
+<item>Airport Limousine Bus Station	</item>
+<item>Airport Limousine Bus Station	</item>
+<item>Fastfood(Sub-way)	</item>
+<item>Mcdonalds	</item>
+<item>Pizza Hut	</item>
+<item>Posco Sports Center	</item>
+<item>Dormitory	</item>
+<item>Dormitory (Graduate)	</item>
+<item>Dormitory (BK)	</item>
+    </string-array>
+    
+        <string-array name="SNU_desc_array">
+            
+            <item>	Family Mart	</item>
+<item>Failmy Mart	</item>
+<item>Take this bus 6003 to travel to and from Incheon international airport.	</item>
+<item>line 2. exit 4. You can find the bus stop and take the bus 02	</item>
+<item>line 2. exit 3. You can find the bus stop and take the bus 5511, 5512, 5513	</item>
+<item>Take the bus 5511, 5512, 5513 (green)	</item>
+<item>		</item>
+<item>		</item>
+<item>You can take the shuttle bus in campus or other local bus.	</item>
+<item>		</item>
+<item>		</item>
+<item>		</item>
+<item>Family Mart	</item>
+<item>Take this bus 6017 to travel to and from Incheon international airport	</item>
+<item>Take this bus 6017 to travel to and from Incheon international airport.	</item>
+<item>		</item>
+<item>		</item>
+<item>		</item>
+<item>		</item>
+<item>		</item>
+<item>		</item>
+<item>For International Students and Families	</item>
+        
+    </string-array>
+</resources>

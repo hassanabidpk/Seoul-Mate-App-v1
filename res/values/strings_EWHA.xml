@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="EWHA_Plc_array">
+        <item>	Subway station of line number 2	</item>
+<item>Post office	</item>
+<item>Coffee shop	</item>
+<item>Burger King	</item>
+<item>Temporary Stay	</item>
+<item>Mr Pizza	</item>
+<item>Coffee shop	</item>
+<item>Subway station	</item>
+<item>Movie theater	</item>
+<item>shopping mall	</item>
+<item>Convenience store	</item>
+<item>Hana Bank	</item>
+<item>Temporary stay	</item>
+<item>Kookmin Bank	</item>
+<item>Temporary stay	</item>
+<item>Pharmacy	</item>
+<item>Temporary Stay	</item>
+<item>Convenience store	</item>
+<item>Coffee shop	</item>
+         </string-array>
+    
+    
+
+    
+    <string-array name="EWHA_desc_array">
+            <item>		</item>
+<item>		</item>
+<item>		</item>
+<item>		</item>
+<item>		</item>
+<item>		</item>
+<item>		</item>
+<item>		</item>
+<item>		</item>
+<item>		</item>
+<item>		</item>
+<item>		</item>
+<item>		</item>
+<item>		</item>
+<item>		</item>
+<item>		</item>
+<item>		</item>
+<item>		</item>
+<item>		</item>
+        
+        
+    </string-array>
+</resources>

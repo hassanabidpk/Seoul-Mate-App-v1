@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="KOOKU_Plc_array">
+        <item>	bus station	</item>
+<item>bus station	</item>
+<item>Elementary school Bus station	</item>
+<item>airport limousine	</item>
+<item>airport limousine	</item>
+<item>korean restaurant	</item>
+<item>bar	</item>
+<item>post office	</item>
+<item>Kookmin University	</item>
+<item>woori bank	</item>
+<item>sk telecom	</item>
+<item>emart	</item>
+<item>gireum subway station	</item>
+        
+    </string-array>
+    
+ <string-array name="KOOKU_desc_array">
+<item>kookmin university station, blue bus   171/153/110A/8153.green bus 1020/1711/7211/1213/1166	</item>
+<item>kookmin university station, blue bus   171/153/110A/8153.green bus 1020/1711/7211/1213/1166	</item>
+<item>Bus : 110B/153/171/1020/1213/7211/8153	</item>
+<item>6100  bus	</item>
+<item>6100 bus	</item>
+<item>	</item>
+<item>	</item>
+<item>post office on 2nd floor	</item>
+<item>Welcome to Kookmi University	</item>
+<item>woori bank on the 2nd floor	</item>
+<item>	</item>
+<item>	</item>
+<item>gireum station on line 4	</item>
+        
+    </string-array>
+</resources>

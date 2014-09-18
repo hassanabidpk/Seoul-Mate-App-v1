@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="real_locations">
+        
+        <item>Joeun Certified Real Estate Agency	</item>
+<item>Orient Certified Real Estate Agency	</item>
+<item>Korea University	</item>
+<item>Duksung women University</item>
+<item>Hyundai Certified Real Estate Agency	</item>
+<item>Sungkyunkwan University	</item>
+<item>Jinsol Certified Real Estate Agency	</item>
+<item>Hanil Certified Real Estate Agency	</item>
+<item>Kyung Hee University	</item>
+<item>Ewha Women University	</item>
+<item>LBA Moonchanho Realty Certified Real Estate Agency	</item>
+<item>Sogang University	</item>
+<item>Yonsei University	</item>
+<item>Sinhwa Certified Real Estate Agency	</item>
+<item>Sookmyung Women University	</item>
+<item>Yale Certified Real Estate Agency	</item>
+<item>Hongik University	</item>
+<item>Mapo Station Seoul Certified Real Estate Agency	</item>
+<item>Hyundai Certified Real Estate Agency	</item>
+<item>Smart Certified Real Estate Agency	</item>
+<item>Dongguk University	</item>
+<item>Arum Certified Real Estate Agency	</item>
+<item>Kukje Certified Real Estate Agency	</item>
+<item>Konkuk University	</item>
+<item>Kangsan Certified Real Estate Agency	</item>
+<item>Konkuk University	</item>
+<item>Sobaek Certified Real Estate Agency	</item>
+<item>Hana Certified Real Estate Agency	</item>
+<item>Cheonjiin Certified Real Estate Agency	</item>
+<item>Chungang University	</item>
+<item>Samsung Certified Real Estate Agency	</item>
+<item>Shin-Hyundai Certified Real Estate Agency	</item>
+<item>Hanyang University	</item>
+<item>Eastern Seoul Invest Certified Real Estate Agency	</item>
+<item>Gangsan Certified Real Estate Agency	</item>
+<item>Reallight Real Estate Reserch Agency	</item>
+<item>University of Seoul	</item>
+<item>Janghanpyung Certified Real Estate Agency	</item>
+<item>Shinimun Certified Real Estate Agency	</item>
+<item>Hankuk University of Foreign Studies	</item>
+<item>Kookmin University	</item>
+<item>Orient Certified Real Estate Agency	</item>
+<item>Seoul National University	</item>
+<item>Hana Certified Real Estate Agency	</item>
+    </string-array>
+    
+    
+     <string-array name="real_desc">
+        <item>Near Daksung Women University.\nAddress: #102, 263-33, Chang 5-dong, Dobong-gu,Seoul,Korea\nContact Information: 82-2-990-0708(82-2-990-0711)	</item>
+<item>	near Korea University.\n Address:1F, 321, Seongbuk-dong, Seongbuk-gu. \nContact Information: 82-2-3672-4400(82-2-3672-4426)	</item>
+<item>	Anam-dong Seongbuk-gu, Seoul, 136-701 Korea	</item>
+<item>	Dobong-gu, Ssangmun-dong, Gun-hwa Street, Seoul, Korea	</item>
+<item>	Near SKK University.\n Address: 1F, 561-2, Changshin-dong, Jongno-gu.\nContact: 82-2-763-8833(82-2-763-8838)	</item>
+<item>	Myeongnyun dong Jongno gu, Seoul Korea	</item>
+<item>	near SKKU.\n Address:147-9, Tongin-dong, Jongno-gu. \nContact: 82-2-765-2189(82-2-765-2146)	</item>
+<item>	near SKKU.\n Address:2F, 464-4, Changsin-dong, Jongno-gu. \nContact: 82-2-765-2189 (82-2-765-2146)	</item>
+<item>	Hoegi-dong, Dongdaemun-gu, 1-1, Seoul, Korea	</item>
+<item>	Daehyun-dong, Seodaemun-gu,Seoul, Korea	</item>
+<item>	near Ewha Women University, Yonsei University.\nAddress:101-6, Daehyun-dong, Seodaemun-gu. \nContact:82-2-392-4040(82-2-393-0804)	</item>
+<item>	Sinsu-dong, Mapo-gu, Korea	</item>
+<item>	Yonsei-ro, Seodaemun-gu, Seoul,Korea. Sinchon Station Exit 2/3	</item>
+<item>	near Sogang University, SookMyung Women University.\nAddress:180-8, Donggyo-dong, Mapo-gu.\nContact: 82-2-338-1550(82-2-322-0576)	</item>
+<item>		</item>
+<item>	near Hongik University. Address:B-3, Paradisetel, 159-6, Donggyo-dong, Mapo-gu. Contact:82-2-3141-1233(82-2-3141-1546)	</item>
+<item>	Hongik University Station	</item>
+<item>	Address:#102, Seil Complex Store, 18-3, Yonggang-dong, Mapo-gu.Contact:82-2-717-0049(82-2-702-2480)	</item>
+<item>	near Hongik University.Address:#101, Sangam World-cup Park Apt., 6 Danji Sangga, 1689, Sangam-dong, Mapo-gu.Contact:82-2-376-7700 (82-2-376-7720)	</item>
+<item>	near Hongik University.Address:B2-4, Pentraus Business Section, 172, Singongdeok-dong, Mapo-gu.Contact:82-2-714-7080(82-2-718-7275)	</item>
+<item>	Pil-dong, Jung-gu, Seoul,Korea	</item>
+<item>	near Dongguk University.Address:348-43, Sindang-dong, Jung-gu.Contact:82-2-2233-4800(82-2-2282-1147)	</item>
+<item>	near Dongguk University.Address:347-355, Sindang-dong, Jung-gu.Contact:82-2-2233-2525(82-2-2233-2503)	</item>
+<item>	Hwayang-dong Gwangjin-gu, Seoul Korea	</item>
+<item>	near Konkuk University.Address:200-1, Guui 3-dong, Gwangjin-gu.Contact:82-2-446-0092(82-2-453-3646)	</item>
+<item>	Hwayang-dong, Gwangjin-gu	</item>
+<item>	Address:248-1, Junggok-dong, Gwangjin-gu. Contact:82-2-432-8949(82-2-469-3300)</item>
+<item>	Address:#105, Hyundai APT Reatail Bldg., 567, Gwangjang-dong, Gwangjin-gu.Contact:82-2-444-4949(82-2-444-4995)	</item>
+<item>	Address:#101, Hyundai Plaza 565, Gwangjang-dong, Gwangjin-gu.Contact:82-2-458-5151(82-2-876-8242)	</item>
+<item>	Dongjak-gu Heukseok-dong, Seoul Korea	</item>
+<item>	near Chungang University.Address:6-3, Noryangjin-dong, Dongjak-gu. Contact:82-2-814-5848(82-2-824-5114)	</item>
+<item>	near Chungang University. Address:103-116, Hyundai Retail Bldg., 502, Daebang-dong, Dongjak-gu.Contact:82-2-817-8008(82-2-817-8532)	</item>
+<item>	Seongdong-gu, Seoul Korea	</item>
+<item>	near Hanyang University, Seoul Campus.Address:#714, Mirabo Tower 228-1, Yongdab-dong, Seongdong-gu. Contact:82-2-433-5900(82-2-433-0082)	</item>
+<item>	Address: 286-19, Haengdang-dong, Seongdong-gu. Contact:82-2-2292-8799(82-2-2292-8799)	</item>
+<item>	Address:#101, Hyundai I-park Apt., Sangga, 834, Seongsu-dong 2-ga, Seongdong-gu.Contact:82-2-498-9669(82-2-498-9766)	</item>
+<item>	Dongdaemun-gu, Seoul Korea	</item>
+<item>	Address: 1F, Younglim Bldg., 433-11, Jangan-dong, Dongdaemun-gu.Contact:82-2-2249-0088(82-2-2247-0211)	</item>
+<item>	Address:220-29, Imun-dong, Dongdaemun-gu.Contact :82-2-965-4400(82-2-957-2505)	</item>
+<item>	HUFS, Dongdaemun-gu, Seoul Korea. HUFS Station	</item>
+<item>	Seongbuk-gu, Korea	</item>
+<item>	near Kookmin University.Address:1F, 321, Seongbuk-dong, Seongbuk-gu.Contact:82-2-3672-4400(82-2-3672-4426)	</item>
+<item>	Gwanak-gu Sillim-dong , Seoul Korea	</item>
+<item>	near Seoul National University.Address:#105, Daewoo Apt. Sangga, 1717, Bongcheon-dong, Gwanak-gu.Contact:82-2-889-7003(82-2-888-6714)	</item>
+        
+    </string-array>
+</resources>

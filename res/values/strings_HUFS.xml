@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="HUFS_Plc_array">
+    
+    <item>	Subway Station	</item>
+<item>7 eleven Convienence Store	</item>
+<item>Station BUS Stop	</item>
+<item>Front Gate	</item>
+<item>Kyung Hee University Hospital	</item>
+<item>Foreign Students Dormitory	</item>
+<item>Outback restaurant	</item>
+<item>Restaurant Area 2	</item>
+<item>nearest Bus Stop	</item>
+<item>Jinlo Mart	</item>
+<item>Restaurant Area 1	</item>
+<item>Bank and Post Office	</item>
+<item>Convienence Store	</item>
+<item>University Dormitory	</item>
+<item>Convienence Store	</item>
+<item>Nearest Subway Station	</item>
+<item>Front gate	</item>
+<item>Convienence Store	</item>
+<item>Angel-in US coffee	</item>
+<item>Starbucks Coffee	</item>
+<item>Pizza Hut	</item>
+<item>Convienence Store	</item>
+<item>Back Gate Kyung Hee Uni.	</item>
+<item>University Dormitory	</item>
+<item>Kyung Hee University Dormitory	</item>
+        
+  </string-array>
+        
+   <string-array name="HUFS_desc_array">
+       <item>Hoegi Station, Line no.1 (Dark Blue Line) and Jungang Line	</item>
+<item>		</item>
+<item>Take Shuttle Bus no.1 (goes to Main gate) and Bus No.2 (goes to Back Gate)	</item>
+<item>Kyung Hee University Front Gate	</item>
+<item>Kyung Hee University Hospital	</item>
+<item>Kyung Hee Uni. Foreign Students Dormitory	</item>
+<item>		</item>
+<item>Restaurants near Kyung Hee University Entrance 	</item>
+<item>BUS no. 273 goes to Ewha Women University and Yonsei University	</item>
+<item>Near Foreign Students Dormitory Kyung Hee University. It has all the basic necessities items at affordable price	</item>
+<item>Restaurant Area 1 near Kyung Hee University Entrance 	</item>
+<item>Bank and Post office  (Cheongoongwan)	</item>
+<item>GS25 near Kyung Hee University Entrance	</item>
+<item>University Dormitory (HUFS), Exchange Students are given preference	</item>
+<item>Family Mart (Inside HUFS)	</item>
+<item>Hankuk University of Foreign Studies (HUFS) Station, Line 1. Take Exit 6 and take a walk straight to the university (5 minute)	</item>
+<item>HUFS Front gate (5 minute walk from Subway Station)	</item>
+<item>GS25 (in-front of HUFS)	</item>
+<item>Coffee Shop near HUFS	</item>
+<item>Starbucks Coffee near HUFS	</item>
+<item>Pizza Hut (HUFS)	</item>
+<item>By The Way (near HUFS main gate)	</item>
+<item>Back Gate Kyung Hee Uni. connects back gate of HUFS	</item>
+<item>University Dormitory (Kyung Hee University), inside campus	</item>
+<item>Saewha Hall	</item>
+       
+       
+       
+   </string-array>
+</resources>

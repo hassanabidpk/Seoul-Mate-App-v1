@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="SMU_Plc_array">
+        <item>Shinhan bank + ATM	</item>
+<item>sookmyung Library	</item>
+<item>administration	</item>
+<item>sookmyung language center	</item>
+<item>sookmyung women university station	</item>
+<item>SookMyung Women University	</item>
+<item>supermarket	</item>
+<item>italian restaurant	</item>
+<item>Starbucks coffee shop	</item>
+<item>Coffee Shop</item>
+<item>GYM</item>
+<item>Seoul station	</item>
+<item>yongsan station	</item>
+<item>Movie Theater</item>
+    </string-array>
+    <string-array name="SMU_desc_array">
+        <item>		</item>
+<item>		</item>
+<item>		</item>
+<item>		</item>
+<item>exit 7 or 8	</item>
+<item>		</item>
+<item>		</item>
+<item>		</item>
+<item>		</item>
+<item>		</item>
+<item>		</item>
+<item>		</item>
+<item>ipark mall, E-mart	</item>
+<item>		</item>
+        
+    </string-array>
+</resources>

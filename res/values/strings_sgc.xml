@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string-array name="sgc_locations">
+      <item>Seoul Global Center	</item>
+<item>Yeoksam Global Village	</item>
+<item>Itaewon Hanam Global Village	</item>
+<item>Itaewon Station Line 6	</item>
+<item>City Hall Station	</item>
+<item>Gangnam Station Line 2	</item>
+<item>Seorae Global Village Center	</item>
+<item>Express Bus Terminal Line, 3, 7	</item>
+<item>Ichon Global Village Center	</item>
+<item>Ichon Station, Line 4	</item>
+<item>Yeongdeungpo Multicultural Village Centre	</item>
+<item>Daerim Station	</item>
+<item>Hansung Uni. Station, Line.4	</item>
+<item>Bus Stop Hansung Uni. St. exit 6	</item>
+<item>Seongbuk Global Village Center	</item>
+      
+      
+  </string-array>
+  
+ <string-array name="sgc_desc">
+  <item>	rd Floor, Seoul Press Center, City Hall Station, Line 1, Exit 4/5	</item>
+<item>Gangnam Station, Line 2, Take Exit 1, Walk straight till you reach first intersection. Turn right and walk for 100 or 200 meters. 
+    Yeoksam Global Village will be on left side of road.	</item>
+<item>Itaewon Station, Line 6, Exit 2.	</item>
+<item>Nearest station to go to Itaewon Hanam Global Village Center, Exit 2	</item>
+<item>Nearest Station to Seoul Global Center, Take Exit 4/5	</item>
+<item>Nearest Subway Station to Yeoksam Global Village Center, Exit 1	</item>
+<item>Go out of Exit 6, Express Bus Terminal Station Line 3,7 and take Bus 13 (maeul), Drop out at Seroe Stop</item>
+<item>nearest Subway Station To Seorae Global Village Center. Go out of Exit 6, take Bus no. 13 (maeul)</item>
+<item>Take Exit 4, Ichon Station, Line 4	</item>
+<item>Nearest Subway Station to  Ichon Global Village Center. Exit 4	</item>
+<item>Daerim Staion, Line 2,7.>Take Exit 10, and walk straight. Yeongdeungpo Multicultural Village Center will be on your left before intersection</item>
+<item>nearest subway station to Yeongdeungpo Multicultural Village Centre, exit 10	</item>
+<item>nearest Subway Station to Seongbuk Global Village Centre, take exit 6	</item>
+<item>Green Bus = 1111,2112. Seongbuk Bus 03</item>
+<item>Hansung University Station Line.4, Exit 6.Take Bus no 1111 or 2112 or Seongbuk Bus 03. Drop out at Ssangdori Stop and walk for 50 meters	</item> 
+      
+      
+  </string-array>
+</resources>

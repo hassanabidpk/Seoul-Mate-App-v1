@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    
+    <string-array name="DSU_Plc_array">
+        <item>Duksung Women\'s University	</item>
+<item>Bus station	</item>
+<item>Back Gate	</item>
+<item>Post office	</item>
+<item>Hana Bank	</item>
+<item>Cafetaria	</item>
+<item>Front Gate	</item>
+<item>Medical Center	</item>
+<item>Language Center	</item>
+<item>Dormitory	</item>
+<item>Bus stop	</item>
+<item>Bus stop	</item>
+<item>San Check	</item>
+<item>Coffee shop	</item>
+<item>Pharmacy	</item>
+<item>Suyu Subway Station, line no 4	</item>
+<item>Convenience Store</item>
+<item>Bookstore	</item>
+<item>Shinhan Bank	</item>
+<item>Police Station	</item>
+<item>Bus stop	</item>
+<item>Airport Bus	</item>
+<item>Drug Store	</item>
+<item>Clinic	</item>
+<item>Motel Loje	</item>
+<item>Su Motel	</item>
+<item>Yu Sonh Jang Hotel	</item>
+<item>Dongbu Drug Store	</item>
+<item>Drug Store	</item>
+<item>Clinic	</item>
+<item>Drug Store	</item>
+<item>Drug Store	</item>
+<item>Drug Store	</item>
+<item>Placemark 54	</item>
+<item>Dong Il Jang Hotel	</item>
+<item>Pyonghwa Hotel	</item>
+        
+        
+    </string-array>
+    
+    <string-array name="DSU_desc_array">
+  <item>Duksung Women\'s University is a private school in Seoul, South Korea</item>
+<item>Bus number 1 to Emart, Bus number 2 to Suyu Station</item>
+<item>		</item>
+<item>		</item>
+<item>		</item>
+<item>		</item>
+<item>		</item>
+<item>		</item>
+<item>		</item>
+<item>		</item>
+<item>Bus no 1 to E- mart, Bus no 2 and 3 to Suyu Station</item>
+<item>Bus no 144, no 153</item>
+<item>Japanese food</item>
+<item>		</item>
+<item>		</item>
+<item></item>
+<item>Seven eleven</item>
+<item>		</item>
+<item>		</item>
+<item>		</item>
+<item>		</item>
+<item>		</item>
+<item>		</item>
+<item>		</item>
+<item>		</item>
+<item>		</item>
+<item>		</item>
+<item>		</item>
+<item>		</item>
+<item>		</item>
+<item>		</item>
+<item>		</item>
+<item>		</item>
+<item>		</item>
+<item>		</item>
+<item>		</item>
+        
+        
+        
+    </string-array>
+    
+</resources>

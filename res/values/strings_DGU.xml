@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="DGU_Plc_array">
+      <item>	Hosital	</item>
+<item>A back gate of University	</item>
+<item>subway station	</item>
+<item>Police Station	</item>
+<item>Main gate	</item>
+<item>Post office	</item>
+<item>convienence store	</item>
+<item>convienence store	</item>
+<item>Post office	</item>
+<item>Movie theater	</item>
+<item>Subway station	</item>
+<item>Main bus stop	</item>
+<item>Sinhan bank	</item>
+<item>Sinhan bank	</item>
+<item>Coffee shop	</item>
+<item>Pharmacy	</item>
+<item>Coffee shop	</item>
+<item>Lotteria	</item>
+<item>Coffee shop	</item>
+<item>Paris bacquette	</item>
+<item>Hotel	</item>
+<item>Shilla Hotel	</item>  
+        
+        
+    </string-array>
+    <string-array name="DGU_desc_array">
+        
+        <item>		</item>
+<item>		</item>
+<item>It is a three line which is called Dongguk University station. You have to go up number 6 gate to get an University</item>
+<item>	<div dir="ltr">it is located in front of Dongguk University main gate.</div>	</item>
+<item>	<div dir="ltr">This is a main gate of Dongguk University.</div>	</item>
+<item>	<div dir="ltr">It is located in inside of Dongguk University</div>	</item>
+<item>		</item>
+<item>		</item>
+<item>		</item>
+<item>		</item>
+<item>It is another way to go to Dongguk University. This line is number 4, and you should use number 1 gate to get there.</item>
+<item>		</item>
+<item>		</item>
+<item>		</item>
+<item>		</item>
+<item>		</item>
+<item>		</item>
+<item>		</item>
+<item>		</item>
+<item>		</item>
+<item>		</item>
+<item>		</item>
+        
+        
+        
+        
+    </string-array>
+</resources>

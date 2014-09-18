@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="menu_settings">Settings</string>
+    <string name="title_activity_seoul_map_pedia">SeoulMapPedia</string>
+    <string name="campus_maps">캠퍼스 지도</string>
+     <string name="google_maps">구글 지도</string>
+     <string name="airport_bus">공항버스</string>
+     <string name="special_food">특별식</string>
+     <string name="campus_campus">Campus to Campus</string>
+     <string name="sgc_programs">Halal Food Guide</string>
+     <string name="general_info">서울생활</string>
+     <string name="sgc_connect">Seoul Global Center</string>
+     <string name="about_content"> This app is made by Group D members of SISF 2011. SISF is part of Seoul Global Center under
+         Seoul Metropoliton Government!</string>
+    <string name="about_us">about us</string>
+      <string name="share">share</string>
+
+  <string name="traffic">Traffic</string>
+  <string name="transparency">Transparency</string>
+  <string name="general_tips">General Tips</string>
+  <string name="halal_snacks">Halal Snacks</string>
+  <string name="haram_snacks">Haram Snacks</string>
+  <string name="restaurants">Restaurants</string>
+  <string name="korean_food">Korean Food</string>
+  <string name="acknowledgement">Ackowledgement</string>
+  <string name="app_back">Seoul Mate</string>
+  <string name="seoul_life">서울생활</string>
+  <string name="real_estate">Real-Estate Locations</string>
+  <string name="student_organizations">Student Organizations</string>
+  <string name="blogs">Foreigner\'s Blogs</string>
+  <string name="tourism_supporters">Korean Tourism Supporters</string>
+  <string name="Media">Media(TV,Radio)</string>
+  <string name="vegan">Vegan</string>
+  <string name="vegetarian">채식주의자</string>
+   <string name="halal_food">무슬림(할랄 음)</string>
+  <string name="sgc_locations">서울 글로벌 센터 위치</string>
+   <string name="estate_locations">부동산 위치</string>
+   <string name="student_organization">학생회</string>
+   <string name="expats_blogs">국외 거주자 블로그</string>
+   <string name="korean_supporters">한국 여행 서포터</string>
+   <string name="korean_media">미디어 영상</string>
+   <string name="news_events">뉴스  이벤트</string>
+    <string name="app_description">Seould MAPpedia는 외국학생들에게 대학 주위와 서울에 대한 편리한 정보를 제공하는 안드로이드 어플리케이션입니다. 
+        서울 생활이 처음이거나, 서울에있는 대학에 다닐 예정이라면 이 어플리케이션은 충분한 도움이 될 것 입니다</string>
+        
+       <string name="language_choose">Choose Language</string>
+   <string name="language">Language</string>
+   <string name="accommodation">숙박</string>
+   <string name="career">채용 정보</string>
+   <string name="events_students">학생들을 위한 행사</string>
+   <string name="korean_lessons">한국어 공부</string>
+   <string name="korean_wave">한류</string>
+   <string name="scholarships">장학금</string>
+   <string name="subway_map">"지하철 지도"</string>
+   
+    <string name="campus">캠퍼스</string>
+    <string name="dining">맛집/</string>
+    <string name="social">소셜 미디어</string>
+    <string name="korea_tour">한국 투어</string>
+    <string name="volunteering_seoul">자원봉사</string>
+    <string name="asian_games">2014 아시안 게임 </string>
+    <string name="online_courses">온라인 수업</string>
+    <string name="jobs">직업</string>
+    <string name="groove_korea">Groove Korea</string>
+    <string name="gangnam_tour">강남 투어</string>
+    <string name="contact_us">Contact Us</string>
+    <string name="seoul_mate">서울 메이트 </string>
+    <string name="naver_dic">네이버 사전</string>
+    <string name="title_activity_social_media_menu">SocialMediaMenu</string>
+    <string name="action_settings">Settings</string>
+    
+</resources>

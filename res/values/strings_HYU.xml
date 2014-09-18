@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<string-array name="HYU_Plc_array">        
+ <item>Hanyang University Subway Station Line 2	</item>
+<item>Coffee shop	</item>
+<item>Post office	</item>
+<item>Hanyang University	</item>
+<item>Hospital of Hangyang University	</item>
+<item>Sinhan Bank	</item>
+<item>Pharmacy	</item>
+<item>Pharmacy	</item>
+<item>Kokmin Bank	</item>
+<item>Pharmacy	</item>
+<item>Convenience store	</item>
+<item>Hana Bank	</item>
+<item>temporary staying	</item>
+<item>Coffee shop	</item>
+<item>Mcdonald	</item>
+<item>Mr. Pizza	</item>
+<item>Convenience store	</item>
+        
+    </string-array>
+    
+<string-array name="HYU_desc_array">
+<item>		</item>
+<item>		</item>
+<item>		</item>
+<item>		</item>
+<item>		</item>
+<item>		</item>
+<item>		</item>
+<item>		</item>
+<item>		</item>
+<item>		</item>
+<item>		</item>
+<item>		</item>
+<item>		</item>
+<item>		</item>
+<item>		</item>
+<item>		</item>
+<item>		</item>
+        
+        
+    </string-array>
+    
+</resources>

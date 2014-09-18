@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="KHU_Plc_array">
+        <item>	Post office	</item>
+<item>Kyung hee Hospital</item>
+<item>Hoegi Subway station of Line no. 1	</item>
+<item>Post office	</item>
+<item>Fastfood store	</item>
+<item>Fastfood store	</item>
+<item>Cofffee shop	</item>
+<item>Pharmacy	</item>
+<item>Pharmacy	</item>
+<item>Pharmacy	</item>
+<item>Convenience store	</item>
+<item>Convenience store	</item>
+<item>Mr Pizza	</item>
+<item>Pharmacy	</item>
+<item>Post office	</item>
+<item>Temporary staying	</item>
+<item>Temporary staying	</item>
+<item>IBK Bank	</item>
+<item>Hana Bank	</item>
+<item>Outbacks restaurant</item>
+<item>Temporary Staying	</item>
+<item>Coffee shop	</item>
+<item>Coffee shop	</item>
+<item>Coffee shop	</item>
+<item>Burger King	</item>
+<item>Hana Bank	</item>
+    </string-array>
+    
+    <string-array name="KHU_desc_array">
+        <item>		</item>
+<item>		</item>
+<item>		</item>
+<item>		</item>
+<item>		</item>
+<item>		</item>
+<item>		</item>
+<item>		</item>
+<item>		</item>
+<item>		</item>
+<item>		</item>
+<item>		</item>
+<item>		</item>
+<item>		</item>
+<item>		</item>
+<item>		</item>
+<item>		</item>
+<item>		</item>
+<item>		</item>
+<item>		</item>
+<item>		</item>
+<item>		</item>
+<item>		</item>
+<item>		</item>
+<item>		</item>
+<item>		</item>
+    </string-array>
+</resources>

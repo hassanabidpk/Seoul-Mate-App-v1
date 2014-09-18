@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="HGU_Plc_array">
+        <item>	Hongik University	</item>
+<item>post office	</item>
+<item>Lotteria	</item>
+<item>Coffee shop	</item>
+<item>Paris bagette	</item>
+<item>Convenience store	</item>
+<item>Convenience store	</item>
+<item>Subway Station	</item>
+<item>Bus stop	</item>
+<item>Pizzahut	</item>
+<item>Coffee shop	</item>
+<item>Burgerking	</item>
+<item>Hanna Bank	</item>
+<item>Gukmin Bank	</item>
+<item>City bank	</item>
+<item>Hotel	</item>
+<item>Dormitory in University	</item>
+<item>International school	</item>
+<item>Front gate of Hongik University	</item>
+        
+    </string-array>
+    
+       <string-array name="HGU_desc_array">
+           
+           <item>		</item>
+<item>		</item>
+<item>		</item>
+<item>		</item>
+<item>		</item>
+<item>		</item>
+<item>		</item>
+<item>This line is number 2.You should use number 9 gate to go to Hongik University	</item>
+<item>		</item>
+<item>		</item>
+<item>		</item>
+<item>		</item>
+<item>		</item>
+<item>		</item>
+<item>		</item>
+<item>		</item>
+<item>		</item>
+<item>		</item>
+<item>		</item>
+        
+        
+    </string-array>
+</resources>

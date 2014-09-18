@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="KKU_Plc_array">
+      <item>	Post office	</item>
+<item>Konkuk hospital	</item>
+<item>Subway Station of 2line	</item>
+<item>Subway station of line 7	</item>
+<item>Bus stop	</item>
+<item>Lotte department store	</item>
+<item>coffee shop	</item>
+<item>Pharmacy	</item>
+<item>convenience store	</item>
+<item>coffee shop	</item>
+<item>Pharmacy	</item>
+<item>Market,Emart	</item>
+<item>Movie theater	</item>
+<item>Sinhan Bank	</item>
+<item>Parmacy	</item>
+<item>temporaty staying	</item>
+<item>Konmin Bank	</item>
+<item>Sinhan bank	</item>
+<item>temporary staying	</item>
+<item>temporary staying	</item>
+<item>Coffee shop	</item>
+<item>Convenience store	</item>
+<item>convenience store	</item>  
+        
+    </string-array>
+    
+<string-array name="KKU_desc_array">
+        
+            
+ <item>		</item>
+<item>		</item>
+<item>It is line number 2.you must use exit 2 to go to University.</item>
+<item>you can use both exit 3 and 4 to get an University.	</item>
+<item>		</item>
+<item>		</item>
+<item>		</item>
+<item>		</item>
+<item>		</item>
+<item>		</item>
+<item>		</item>
+<item>		</item>
+<item>		</item>
+<item>		</item>
+<item>		</item>
+<item>		</item>
+<item>		</item>
+<item>		</item>
+<item>		</item>
+<item>		</item>
+<item>		</item>
+<item>		</item>
+<item>		</item>
+        
+    </string-array>
+</resources>

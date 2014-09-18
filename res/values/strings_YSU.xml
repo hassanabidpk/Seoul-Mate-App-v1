@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="YSU_Plc_array">
+        <item>	Yonsei main gate	</item>
+<item>Closest subway Station	</item>
+<item>Convenience store	</item>
+<item>Convenience store	</item>
+<item>Grand Mart	</item>
+<item>Convenience store	</item>
+<item>Starbucks Coffee	</item>
+<item>Airport bus	</item>
+<item>Temorary housing	</item>
+<item>Hongik Bookstore	</item>
+<item>Meeting point	</item>
+<item>Campus bus bus stop	</item>
+<item>Yonsei KLI Language school	</item>
+<item>Bank and post office	</item>
+<item>Bongwonsa Temple	</item>
+<item>Kimbab cheongug	</item>
+<item>Yonsei Uni. Hospital	</item>
+<item>Bread store	</item>
+<item>Hyundai department store	</item>
+<item>Yonsei University	</item>
+    </string-array>
+    <string-array name="YSU_desc_array">
+        <item>		</item>
+<item>Shinchon subway exit 2 or 3, walk straight after exit to get to Yonsei University main gate	</item>
+<item>Family mart	</item>
+<item>		</item>
+<item>Great place to buy household electronics, blankets, toiletries and groceries.Shinchon station exit 8	</item>
+<item>GS 25	</item>
+<item>Coffee Shop	</item>
+<item>Bus 6001 goes directly to and from airport. Takes about 50 minutes and costs 10.000KRW.(NOTE: Have cash ready, does not take card)	</item>
+<item>Casa Villa Residence, cheap temporary housing	</item>
+<item>Small selection of English books in second floor.	</item>
+<item>U-Plex, red statue in front of Hyundai Department store is often used as a meeting point.	</item>
+<item>The yonsei campus bus stops here and goes to the language school	</item>
+<item>Language school of Yonsei University	</item>
+<item>International banking services +post office	</item>
+<item>Buddhist temple, and mountain hiking area	</item>
+<item>Cheap traditional Korean restaurant	</item>
+<item>Yonsei University hospital	</item>
+<item>You can buy bread and western baked goods here	</item>
+<item>		</item>
+<item>Welcome to Yonsei University	</item>
+    </string-array>
+</resources>

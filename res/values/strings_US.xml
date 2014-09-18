@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="US_Plc_array">
+        <item>nearest Subway Station	</item>
+<item>Depratmental Store	</item>
+<item>Station BUS Stop	</item>
+<item>Nearest Hospital	</item>
+<item>Airport Bus	</item>
+<item>Convienence Store	</item>
+<item>Front Gate	</item>
+<item>Convienence Store	</item>
+<item>Convienence Store	</item>
+<item>University Bus Stop	</item>
+<item>Angel-in US Coffee Shop	</item>
+<item>Convienence Store	</item>
+        
+    </string-array>
+    
+        <string-array name="US_desc_array">
+ <item>Cheongnyangni Station Line 1	</item>
+<item>Lotte Departmental Store near Station	</item>
+<item>This BUS stop is used to get BUS towards University	</item>
+<item>Seoul Sungsim Hospital	</item>
+<item>Airport Limousine Bus Stop for University of Seoul	</item>
+<item>7-Eleven	</item>
+<item>Front gate of University of Seoul	</item>
+<item>GS25	</item>
+<item>By the Way Store</item>
+<item>Bus stop near University of Seoul	</item>
+<item>Coffee Shop near front gate of University of Seoul	</item>
+<item>Family mart near University of Seoul	</item>
+        
+    </string-array>
+</resources>

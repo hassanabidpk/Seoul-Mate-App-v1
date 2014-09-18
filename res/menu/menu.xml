@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+   
+<item 
+    android:id="@+id/menu_first"
+    android:icon="@drawable/campus_map"
+    android:title="Home"
+    android:visible="true" />
+
+<item 
+    android:id="@+id/menu_second"
+    android:icon="@drawable/google_map"
+    android:title="Campus Maps"
+  android:visible="true"   />
+    
+
+  <item 
+    android:id="@+id/menu_third"
+    android:icon="@drawable/campus_map"
+    android:title="Google Maps"
+    android:visible="true" />
+
+<item 
+    android:id="@+id/menu_fourth"
+    android:icon="@drawable/google_map"
+    android:title="Airport Bus"
+  android:visible="true"   />
+    
+  <item 
+      android:id="@+id/menu_fifth"
+      android:icon="@drawable/ic_action_search"
+      android:title="Search"
+    android:visible="true"   />
+    
+      <item 
+      android:id="@+id/menu_sixth"
+      android:icon="@drawable/ic_action_search"
+      android:title="Contact Us"
+    android:visible="true"   />
+    
+
+
+</menu>

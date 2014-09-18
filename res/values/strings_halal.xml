@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string-array name="halal_restaurants">
+      <item>Itaewon Subway Station	</item>
+<item>Mughal Restaurant	</item>
+<item>Turkish Kebab 1	</item>
+<item>Pasha (Turkish Kebab)	</item>
+<item>Dubai Restaurant	</item>
+<item>Mr. Kebab Restaurant	</item>
+<item>Karavan Restaurant (Turkish)	</item>
+<item>Foreign Restaurant (Veggie option)	</item>
+<item>Foreign Food Store	</item>
+<item>National Food Store</item>
+<item>Usmania Restaurant (PakistanI)	</item>
+<item>Malaysian/Indonesia Restaurant	</item>
+<item>Al-Hoor Restaurant (Pakistani)	</item>
+<item>Wazwaan Restaurant	</item>
+<item>Salam restaurant (Turkish)	</item>
+<item>Itaewon Mosque	</item>
+<item>Pasha Restaurant(Gangnam)	</item>
+<item>Taj Restaurant (Indian)	</item>
+<item>Smarkand Restaurant (Uzbek)	</item>
+<item>Zaffran Restaurant	</item>
+<item>Al-Saba Restaurant	</item>
+<item>Petra Restaurant	</item>
+<item>Baba India Restaurant	</item>
+<item>IndiaGate Restaurant	</item>
+<item>Amma Restaurant (Indian)	</item>
+      
+      
+      
+  </string-array>
+  
+  <string-array name="halal_restaurants_desc">
+      
+      <item>Itaewon Station is located on Line No. 6	</item>
+<item>It is Pakistani restaurant located behind Hamilton Hotel. Get out of Exit 1, go straight and turn right from KFC. Walk straight and you will find Mughal Restaurant	</item>
+<item>		</item>
+<item>Halal food restaurant from Turkey	</item>
+<item>2nd Floor ( above Mr, Kebab)	</item>
+<item>Relatively affordable Halal restaurant located at first floor	</item>
+<item>Located at 3rd floor above Dubai Restaurant	</item>
+<item>Foreign Restaurant is Halal Buffet Restaurant opened throughout week. It has Pakistani and Indian cuisine	</item>
+<item>Halal Food mart ( meat and food ingredients available. 	</item>
+<item>It is owned by a Pakistani. It has most of products imported from Pakistan. Halal Meat available.	</item>
+<item>Usmania is premium quality Halal food restaurant located next to foreign mart. Buffet available on weekend for 17500 Won	</item>
+<item>		</item>
+<item>A very affordable and decent quality Pakistani restaurant. Per person it would cost you 8000 ~10000 won. (recommended for students)	</item>
+<item>An Indian/Pakistani restaurant. Which is affordable for students	</item>
+<item>Halal food available	</item>
+<item>		</item>
+<item>Relatively expensive	</item>
+<item>Confirm about Halal. usually they have Halal Lamb	</item>
+<item>They serve Halal Food ( But please make sure). It is located near Dongdaemun History and Culture Park Station.	</item>
+<item>It is Arabic/Pakistani cuisine restaurant located at Ibis Hotel Myeong-dong. You can find it in front of Lotte Departmental Store.	</item>
+<item>A Pakistani Restaurant located near Noksapyeong Station. (Halal Food)	</item>
+<item>It is Arabic ( Jordon) restaurant located near Noksapyeong Station. It serves Halal Arabic/Middle Eastern Food.	</item>
+<item>An Indian Restaurant (Please check for Halal meat). Usually they serve Halal Lamb.	</item>
+<item>Located near Gangnam Station exit 11. Please confirm Halal Meat first before ordering.	</item>
+<item>Located near Sinchon Station Line no. 2. Please verify Halal meat first. Affordable for students	</item>
+      
+      
+  </string-array>  
+</resources>
